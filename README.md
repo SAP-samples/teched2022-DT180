@@ -33,6 +33,7 @@ The detailed exercise description you find here:
 System access for Exercise 2
 
 There is a dedicated TechED SAP SAP Cloud ALM system available to be used for this exercise. You can open the Launchpad via this link: [Launchpad SAP Cloud ALM](https://calm-teched-2022.eu20.alm.cloud.sap/launchpad#Shell-home)
+
 Logon with the user AGATHA to perform the exercise. The password is Calm22#1
 
 _____________________
