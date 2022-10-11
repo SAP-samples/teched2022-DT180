@@ -1,33 +1,47 @@
-# Session ID - Session Title
+# DT180 - Explore Solutions That Enable an Agile Transition to SAP S/4HANA
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called DT180 - Explore Solutions That Enable an Agile Transition to SAP S/4HANA.  
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to SAP’s ALM tools SAP Solution Manager with Focused Build and SAP Cloud ALM which offer a great set of features and functions that support customers transformation to the Intelligent Enterprise. In this session you will learn how the Focused Build solution for SAP Solution Manager for on-premise systems, and the SAP Cloud ALM solution for cloud systems, can manage requirements and the subsequent implementation. You will also discover the built-in reporting capabilities which both solutions offer.
+
+Open the overview presentation here.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+There are no requirements other than sufficient internet access to execute the exercises.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+Exercise 1 - First Exercise Description
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
+The detailed exercise description you find here:
+
+System Access for Exercise 1
+
+There is a dedicated TechED SAP Solution Manager system available to be used for this exercise. You can open the Launchpad via this link: [Launchpad](https://teched-2022.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html)
+
+Logon with the user BAUERA to perform the exercise. The password is Solman72.
+
+Exercise 2 - Second Exercise Description
+
+The detailed exercise description you find here:
+
+System access for Exercise 2
+
+There is a dedicated TechED SAP SAP Cloud ALM system available to be used for this exercise. You can open the Launchpad via this link: [Launchpad](https://teched-2022.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html)
+Logon with the user AGATHA to perform the exercise. The password is
+
+_____________________
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
 - [Exercise 2 - Second Exercise Description](exercises/ex2/)
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
 **IMPORTANT**
 
