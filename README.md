@@ -22,7 +22,7 @@ The detailed exercise description you find here:
 
 System Access for Exercise 1
 
-There is a dedicated TechED SAP Solution Manager system available to be used for this exercise. You can open the Launchpad via this link: [Launchpad](https://teched-2022.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html)
+There is a dedicated TechED SAP Solution Manager system available to be used for this exercise. You can open the Launchpad via this link: [Launchpad](https://teched-2022.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html){:target="_blank" rel="noopener"}
 
 Logon with the user BAUERA to perform the exercise. The password is Solman72.
 
