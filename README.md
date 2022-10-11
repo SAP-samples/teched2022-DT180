@@ -22,9 +22,9 @@ The detailed exercise description you find here:
 
 System Access for Exercise 1
 
-There is a dedicated TechED SAP Solution Manager system available to be used for this exercise. You can open the Launchpad via this link: [Launchpad](https://teched-2022.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html){:target="_blank" rel="noopener"}
+There is a dedicated TechED SAP Solution Manager system available to be used for this exercise. You can open the Launchpad via this link: [Launchpad SAP Solution Manager](https://teched-2022.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html)
 
-Logon with the user BAUERA to perform the exercise. The password is Solman72.
+Logon with the user BAUERA to perform the exercise. The password is Solman72
 
 Exercise 2 - Second Exercise Description
 
@@ -32,8 +32,8 @@ The detailed exercise description you find here:
 
 System access for Exercise 2
 
-There is a dedicated TechED SAP SAP Cloud ALM system available to be used for this exercise. You can open the Launchpad via this link: [Launchpad](https://teched-2022.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html)
-Logon with the user AGATHA to perform the exercise. The password is
+There is a dedicated TechED SAP SAP Cloud ALM system available to be used for this exercise. You can open the Launchpad via this link: [Launchpad SAP Cloud ALM](https://calm-teched-2022.eu20.alm.cloud.sap/launchpad#Shell-home)
+Logon with the user AGATHA to perform the exercise. The password is Calm22#1
 
 _____________________
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
