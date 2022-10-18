@@ -8,7 +8,7 @@ This repository contains the material for the SAP TechEd 2022 session called DT1
 
 This session introduces attendees to SAP’s ALM tools SAP Solution Manager with Focused Build and SAP Cloud ALM which offer a great set of features and functions that support customers transformation to the Intelligent Enterprise. In this session you will learn how the Focused Build solution for SAP Solution Manager for on-premise systems, and the SAP Cloud ALM solution for cloud systems, can manage requirements and the subsequent implementation. You will also discover the built-in reporting capabilities which both solutions offer.
 
-Open the overview presentation here.
+Open the overview presentation [here](https://github.com/SAP-samples/teched2022-DT180/blob/main/DT180%20-%20Explore%20solutions%20that%20enable%20an%20Agile%20Transition%20to%20SAP%20S4HANA.pdf).
 
 ## Requirements
 
