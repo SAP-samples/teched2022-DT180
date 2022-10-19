@@ -16,9 +16,9 @@ There are no requirements other than sufficient internet access to execute the e
 
 ## Exercises
 
-### Exercise 1 - First Exercise Description
+### Exercise 1 - Release Dashboard Usage for preparation of Functional Integration Test and Go-Live
 
-The detailed exercise description you find here:
+The detailed exercise description you find [here](https://github.com/SAP-samples/teched2022-DT180/blob/main/Session%20DT180%20Exercise%20-%2001%20Release%20Dashboard%20Usage%20for%20preparation%20of%20FIT%20and%20Go-Live.pdf)
 
 ### System Access for Exercise 1
 
