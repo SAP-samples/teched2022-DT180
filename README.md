@@ -28,8 +28,7 @@ Logon with the user *BAUERA* to perform the exercise. The password is *Solman72*
 
 ### Exercise 2 - Second Exercise Description
 
-The detailed exercise description you find here: 
-(https://github.com/SAP-samples/teched2022-DT180/files/9871343/Session.DT180.Exercise.-.02.SAP.Cloud.ALM.Analytics.-.Traceability.Use.Cases.docx)
+The detailed exercise description you find [here](https://github.com/SAP-samples/teched2022-DT180/files/9871343/Session.DT180.Exercise.-.02.SAP.Cloud.ALM.Analytics.-.Traceability.Use.Cases.docx)
 
 ### System access for Exercise 2
 
