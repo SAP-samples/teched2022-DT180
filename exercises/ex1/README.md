@@ -1,1 +1,1 @@
-[Session DT180 Exercise - 02 SAP Cloud ALM Analytics - Traceability Use Cases.docx](https://github.com/SAP-samples/teched2022-DT180/files/9871343/Session.DT180.Exercise.-.02.SAP.Cloud.ALM.Analytics.-.Traceability.Use.Cases.docx)
+
