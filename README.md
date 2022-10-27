@@ -26,7 +26,7 @@ There is a dedicated TechED SAP Solution Manager system available to be used for
 
 Logon with the user *BAUERA* to perform the exercise. The password is *Solman72*
 
-### Exercise 2 - SAP Cloud ALM – Analytics and Traceability Use Cases
+### Exercise 2 - SAP Cloud ALM – Analytics for preparation of implementation, testing and Go-Live
 
 The detailed exercise description you find [here](https://github.com/SAP-samples/teched2022-DT180/blob/main/Session%20DT180%20Exercise%20-%2002%20SAP%20Cloud%20ALM%20-%20Analytics%20and%20Traceability%20Use%20Cases.pdf)
 
