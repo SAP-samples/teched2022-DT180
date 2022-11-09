@@ -16,7 +16,7 @@ There are no requirements other than sufficient internet access to execute the e
 
 ## Exercises
 
-### Exercise 1 - Release Dashboard Usage for preparation of Functional Integration Test and Go-Live
+### Exercise 1 - SAP Solution Manager with Focused Build - Analytics for Acceptance Test Evaluation and Functional Integration Test/Go Live Preparation
 
 The detailed exercise description you find [here](https://github.com/SAP-samples/teched2022-DT180/blob/main/Session%20DT180%20Exercise%20-%2001%20SAP%20Solution%20Manager%20and%20Focused%20Build%20-%20Analytics.pdf)
 
@@ -24,7 +24,7 @@ The detailed exercise description you find [here](https://github.com/SAP-samples
 
 There is a dedicated TechED SAP Solution Manager system available to be used for this exercise. You can open the Launchpad via this link: [Launchpad SAP Solution Manager](https://teched-2022.almdemo.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html)
 
-Logon with the user *BAUERA* to perform the exercise. The password is *Solman72*
+For logon different users have been created, DT180-01, DT180-02, DT180-03 ... DT180-150. The password for all of them is *welcome*. If an user is already logged on try to use another one which is not in use so far to avoid collissions with other participants.
 
 ### Exercise 2 - SAP Cloud ALM – Analytics for preparation of implementation, testing and Go-Live
 
