@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-DT180)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-DT180)
+
 # DT180 - Explore Solutions That Enable an Agile Transition to SAP S/4HANA
 
 ## Description
